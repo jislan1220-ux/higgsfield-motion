@@ -14,6 +14,10 @@ Foi assim que eu fiz: sem abrir outro site, o Claude escreve o prompt de cada ce
 2. Procure **Higgsfield** e clique em **Conectar**. Entre com a sua conta do Higgsfield (ou crie uma) e autorize.
 3. Pronto: o conector vale no chat e no Claude Code. É só pedir, por exemplo: *"gera no Higgsfield, com o Seedance 2.0, uma cena de 5 s em 16:9 de um dragão rugindo para a câmera"*.
 
+### Prompts que eu usei
+
+Os 4 prompts das cenas do vídeo (dragão, voando no dragão, cavaleiros queimados e cavaleiros na ponte) estão em [references/prompts.md](references/prompts.md), prontos para copiar. É só colar no Claude com o conector ligado: *"gera isso no Higgsfield com o Seedance 2.0, 16:9"*.
+
 ### 🎁 3 dias grátis no Higgsfield
 
 O Higgsfield está dando **3 dias grátis** para quem assina o Claude. Comenta **"HIGGSFIELD"** no meu post do Instagram ([@diasl_uisvictor](https://instagram.com/diasl_uisvictor)) que eu te mando o passo a passo para ativar.

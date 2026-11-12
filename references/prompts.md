@@ -1,0 +1,28 @@
+# Prompts das cenas do vídeo de referência
+
+Gerados com o **Seedance 2.0** dentro do Claude, pelo conector do Higgsfield, em **16:9 e 720p**. Copie, troque o que quiser (personagem, lugar, cor) e peça para o Claude gerar.
+
+## 🐉 Cena 1: dragão
+
+```
+Cinematic live-action adventure. Extreme close-up of a giant dragon's face flying through the clouds: copper and teal scales, huge horned snout, glowing amber eyes, smoke curling from its nostrils, it turns its head and roars toward the camera. The camera then pulls back and swings along its neck to reveal a young woman in a worn orange flight jacket and aviator goggles riding on its back, laughing, as they soar over a tropical coastline with waterfalls at sunrise. Photoreal, anamorphic, sun flare.
+```
+
+## 🐉 Cena 2: voando no dragão
+
+```
+Cinematic live-action adventure shot. A young Brazilian woman in a worn orange flight jacket and aviator goggles rides on the back of a giant dragon with copper and teal scales, flying low over a tropical green coastline and waterfalls at sunrise. The camera flies alongside, then the dragon banks sharply toward the camera and passes by. Wind, mist, sun flare, photoreal, wide anamorphic.
+```
+
+## 🔥 Cena 3: cavaleiros queimados
+
+```
+Cinematic live-action slapstick comedy at a crumbling dragon's tower over a lava moat. A clumsy knight in dented armor and his chubby squire tiptoe across a rope bridge; a giant red dragon leans out of the tower window and blasts a huge stream of fire right at them. They scream, their backsides catch fire and smoke, and they turn and sprint away in panic back across the swaying bridge, flailing their arms. Funny, exaggerated, photoreal blockbuster look.
+```
+
+## 🏰 Cena 4: cavaleiros na ponte
+
+```
+Cinematic live-action comedic fantasy, parody of an epic castle siege. A clumsy knight in dented armor and his chubby squire charge across a swaying rope bridge toward a crumbling dragon's tower above a glowing lava moat; the knight trips dramatically while a giant red dragon peeks out of the tower window looking bored. Dramatic low angle, smoke and embers, epic blockbuster lighting, photoreal.
+```
+
