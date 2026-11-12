@@ -44,10 +44,10 @@ O Higgsfield está dando **3 dias grátis** para quem assina o Claude. Crie a co
 Abra o Claude Code e cole:
 
 ```
-Instala esta skill para mim: https://github.com/jislan1220-ux/higgsfield-motion.git na pasta ~/.claude/skills/higgsfield-motion
+Instala esta skill para mim: https://github.com/jislan1220-ux/higgsfield-motion.git na pasta ~/.claude/skills/higgsfield-motion e já começa o passo a passo dela
 ```
 
-Depois é só pedir: *"faz um vídeo no estilo Higgsfield Motion com esta narração"*. Com o conector ligado, o Claude sugere as cenas, gera no Higgsfield e monta o vídeo.
+Logo depois de instalar, o Claude já começa o passo a passo: cria a sua conta no Higgsfield pelo link da parceria (com os 3 dias grátis), liga o conector e confere os programas. Depois é só pedir: *"faz um vídeo no estilo Higgsfield Motion com esta narração"*. Com o conector ligado, o Claude sugere as cenas, gera no Higgsfield e monta o vídeo.
 
 ## Aviso
 
