@@ -1,6 +1,6 @@
 # Higgsfield Motion
 
-Skill do Claude Code para criar vídeos de motion no estilo do vídeo **Higgsfield + Claude** do Victor Dias ([@diasl_uisvictor](https://instagram.com/diasl_uisvictor)), feito em parceria com a [Higgsfield](https://higgsfield.ai).
+Skill do Claude Code para criar vídeos de motion no estilo do vídeo **Higgsfield + Claude** do Victor Dias ([@diasl_uisvictor](https://instagram.com/diasl_uisvictor)), feito em parceria com a [Higgsfield](https://higgsfield.ai?fpr=victor-712e6f).
 
 ![Quadros do vídeo de referência](assets/exemplo_quadros.jpg)
 
@@ -10,9 +10,11 @@ Todas as cenas do vídeo de referência foram geradas **aqui dentro do Claude**,
 
 Foi assim que eu fiz: sem abrir outro site, o Claude escreve o prompt de cada cena e gera o vídeo no Higgsfield pelo conector.
 
-1. No [claude.ai](https://claude.ai), abra **Configurações → Conectores**.
-2. Procure **Higgsfield** e clique em **Conectar**. Entre com a sua conta do Higgsfield (ou crie uma) e autorize.
-3. Pronto: o conector vale no chat e no Claude Code. É só pedir, por exemplo: *"gera no Higgsfield, com o Seedance 2.0, uma cena de 5 s em 16:9 de um dragão rugindo para a câmera"*.
+1. **Crie sua conta no Higgsfield por este link:** 👉 **[https://higgsfield.ai?fpr=victor-712e6f](https://higgsfield.ai?fpr=victor-712e6f)**
+   Use esse link para criar a conta antes de conectar: é o link de afiliado do Victor, e é por ele que você entra na parceria.
+2. No [claude.ai](https://claude.ai), abra **Configurações → Conectores**.
+3. Procure **Higgsfield** e clique em **Conectar**. Entre com a conta que você criou no passo 1 e autorize.
+4. Pronto: o conector vale no chat e no Claude Code. É só pedir, por exemplo: *"gera no Higgsfield, com o Seedance 2.0, uma cena de 5 s em 16:9 de um dragão rugindo para a câmera"*.
 
 ### Prompts que eu usei
 
@@ -20,7 +22,7 @@ Os 4 prompts das cenas do vídeo (dragão, voando no dragão, cavaleiros queimad
 
 ### 🎁 3 dias grátis no Higgsfield
 
-O Higgsfield está dando **3 dias grátis** para quem assina o Claude. Comenta **"HIGGSFIELD"** no meu post do Instagram ([@diasl_uisvictor](https://instagram.com/diasl_uisvictor)) que eu te mando o passo a passo para ativar.
+O Higgsfield está dando **3 dias grátis** para quem assina o Claude. Crie a conta pelo link **[https://higgsfield.ai?fpr=victor-712e6f](https://higgsfield.ai?fpr=victor-712e6f)**. Comenta **"HIGGSFIELD"** no meu post do Instagram ([@diasl_uisvictor](https://instagram.com/diasl_uisvictor)) que eu te mando o passo a passo para ativar.
 
 ## O que vem junto
 
@@ -49,4 +51,4 @@ Depois é só pedir: *"faz um vídeo no estilo Higgsfield Motion com esta narra�
 
 ## Aviso
 
-Skill independente, feita pelo Victor Dias. Não é um produto oficial da Higgsfield. Os sons de pacotes pagos usados no vídeo original não estão aqui; use os sons CC0 que vêm junto ou os seus.
+Skill independente, feita pelo Victor Dias. Não é um produto oficial da Higgsfield. Os links do Higgsfield neste repositório são links de afiliado do Victor. Os sons de pacotes pagos usados no vídeo original não estão aqui; use os sons CC0 que vêm junto ou os seus.
