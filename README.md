@@ -4,7 +4,19 @@ Skill do Claude Code para criar vídeos de motion no estilo do vídeo **Higgsfie
 
 ![Quadros do vídeo de referência](assets/exemplo_quadros.jpg)
 
-Você grava a narração, gera as cenas no Higgsfield (Seedance), e o Claude monta o resto: texto cinético com a sua fala palavra por palavra, interface em vidro, as cenas entrando em tela cheia e virando card de vidro, laser cortando a tela, logo com corte de lâmina, trilha 3D, um efeito sonoro para cada coisa que acontece na tela, digitação em cada palavra, capa e legenda para o Instagram.
+Todas as cenas do vídeo de referência foram geradas **aqui dentro do Claude**, com o conector do Higgsfield (Seedance 2.0). Você grava a narração, pede as cenas para o Claude, e ele monta o resto: texto cinético com a sua fala palavra por palavra, interface em vidro, as cenas entrando em tela cheia e virando card de vidro, laser cortando a tela, logo com corte de lâmina, trilha 3D, um efeito sonoro para cada coisa que acontece na tela, digitação em cada palavra, capa e legenda para o Instagram.
+
+## Gere as cenas dentro do Claude: conector do Higgsfield
+
+Foi assim que eu fiz: sem abrir outro site, o Claude escreve o prompt de cada cena e gera o vídeo no Higgsfield pelo conector.
+
+1. No [claude.ai](https://claude.ai), abra **Configurações → Conectores**.
+2. Procure **Higgsfield** e clique em **Conectar**. Entre com a sua conta do Higgsfield (ou crie uma) e autorize.
+3. Pronto: o conector vale no chat e no Claude Code. É só pedir, por exemplo: *"gera no Higgsfield, com o Seedance 2.0, uma cena de 5 s em 16:9 de um dragão rugindo para a câmera"*.
+
+### 🎁 3 dias grátis no Higgsfield
+
+O Higgsfield está dando **3 dias grátis** para quem assina o Claude. Comenta **"HIGGSFIELD"** no meu post do Instagram ([@diasl_uisvictor](https://instagram.com/diasl_uisvictor)) que eu te mando o passo a passo para ativar.
 
 ## O que vem junto
 
@@ -17,7 +29,8 @@ Você grava a narração, gera as cenas no Higgsfield (Seedance), e o Claude mon
 ## O que você precisa
 
 - Claude Code no computador (o chat comum não renderiza vídeo).
-- Narração em áudio e o texto dela, os clipes gerados no Higgsfield e a sua música.
+- Narração em áudio e o texto dela, e a sua música.
+- O conector do Higgsfield ligado no Claude para gerar as cenas (ou os clipes que você já gerou no Higgsfield).
 - Python 3, FFmpeg, Node e Playwright. A skill confere e pede um "sim" para instalar o que faltar.
 
 ## Como instalar
@@ -28,7 +41,7 @@ Abra o Claude Code e cole:
 Instala esta skill para mim: https://github.com/jislan1220-ux/higgsfield-motion.git na pasta ~/.claude/skills/higgsfield-motion
 ```
 
-Depois é só pedir: *"faz um vídeo no estilo Higgsfield Motion com esta narração e estes clipes"*.
+Depois é só pedir: *"faz um vídeo no estilo Higgsfield Motion com esta narração"*. Com o conector ligado, o Claude sugere as cenas, gera no Higgsfield e monta o vídeo.
 
 ## Aviso
 

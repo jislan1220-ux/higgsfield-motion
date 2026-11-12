@@ -14,7 +14,7 @@ Leia [references/estilo.md](references/estilo.md) antes de criar qualquer cena e
 ## O que pedir
 
 - **Narração** em áudio e o **texto digitado** dela. O texto na tela é sempre o da narração, palavra por palavra. Texto digitado vale mais que a transcrição.
-- **Clipes do Higgsfield** (Seedance ou outro modelo), de 5 a 10 s cada, e em que frase cada um entra.
+- **Cenas do Higgsfield**: em que frase cada uma entra. Se o conector do Higgsfield estiver ligado (ferramentas `mcp__Higgsfield__*`), escreva os prompts com a pessoa, peça aprovação e gere aqui mesmo, como no vídeo de referência: Seedance 2.0, 16:9, 5 a 10 s, cinematográfico e fotorreal (exemplos em `assets/capa/legenda_exemplo.txt`). Mostre o custo em créditos antes de gerar. Sem o conector, peça os clipes prontos, ou explique como ligar: claude.ai → Configurações → Conectores → Higgsfield → Conectar.
 - **Música** e o segundo em que ela deve começar.
 - **Marca e chamada final**: a palavra da logo (no modelo, "KATANA"), o crédito e a palavra para comentar (no modelo, "HIGGSFIELD").
 - **Sons**: a pasta de efeitos da pessoa, se tiver. Se não tiver, use `assets/sons_cc0/` (CC0, uso livre).
